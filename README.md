@@ -1,2 +1,5 @@
 # Visualizing_Climate_Change
-Visualizing the climate change from 1750-2013
+
+There have been countless changes in our climate over the past few decades in almost every part of the world. From the shrinking of glaciers to the changes in the trees, every problem is somehow related to the harmful changes happening in the climate. In this report, we have done our research over a range of 100 cities in 49 different countries and discussed the severity, that climate change has caused to some parts of the globe. We implemented various machine learning and data visualization techniques and have explained our research. There are also some graphical plots attached in this paper below, which we found very useful in our analysis about how the change in climate is effecting not only the human race but also the future of our planet. The study of global surface temperature is very useful in the understanding of climate change. We start this report by explaining some of the methods we have applied to support our analysis, then the results which we found highly useful in our work and finally the supportive arguments, which are written in the conclusion. 
+
+Please reach out if you would like to read the whole report. 
